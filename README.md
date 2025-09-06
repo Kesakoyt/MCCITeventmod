@@ -14,7 +14,7 @@ Mod for the event organised by LeVraiKesako n Minecraft
 - scores
 - teams
   
-21 septembre implémentation des minis jeux: 
+25 septembre implémentation des minis jeux: 
 - sands of time
 - bingo but fast
 
@@ -47,6 +47,7 @@ Mod for the event organised by LeVraiKesako n Minecraft
 - Hub
 - Creative zone (for background)
 - Sticker book
+- animations
 
 1 janvier: implémentation des minis jeux:
 - ace race
