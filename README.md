@@ -22,6 +22,8 @@ Mod for the event organised by LeVraiKesako n Minecraft
 - dodgebolt
 - TGTTOSWAF
 
+Débuts des tests avec une équipe
+
 15 octobre implémentation des minis jeux:
 - Parkour warrior
 - Parkour tag
