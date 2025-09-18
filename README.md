@@ -3,7 +3,7 @@ Mod for the event organised by LeVraiKesako n Minecraft
 
 # MCCITeventmod roadmap
 
-20 septembre fin du backend: 
+30 septembre fin du backend: 
 - blocks,
 - tab,
 - scoreboard
@@ -14,13 +14,14 @@ Mod for the event organised by LeVraiKesako n Minecraft
 - scores
 - teams
   
-25 septembre implémentation des minis jeux: 
+30 septembre implémentation des minis jeux: 
 - sands of time
 - bingo but fast
 
-30 septembre implémentation des minis jeux:
+5 octobre implémentation des minis jeux:
 - dodgebolt
 - TGTTOSWAF
+- Parkour warrior (original)
 
 Débuts des tests avec une équipe
 
@@ -62,7 +63,6 @@ Début des évenements officiels
 20 février: implémentation des minis jeux:
 - Foot Race
 - Lockout bingo
-- Parkour warrior (original)
 - Rocket spleef
 - Sky blockle
 
